@@ -1,4 +1,4 @@
-# Database: NBA Statistics 2017-2018
+# Database: NBA Statistics (2017-2018)
 
 # Project Details
 The goal of this project is to gain experience with database design and implementation. You need to choose a small domain (for example, food carts or campus sports teams) for which to implement a database, along with populating it with real data and producing example queries to execute over it.
@@ -18,3 +18,12 @@ You are to implement your schema in a relational database and populate it with d
 * For each of your 20 questions, the question in English, its translation
 to SQL and the (full) answer to the query. (If you needed to change any of your original questions, also list the originals and why you needed to change or replace them.)
 * A listing of the contents of all of your tables
+
+# Source Tree
+```bash
+├── CSV_Files
+│   └── Team_Stats.csv
+├── README.md
+└── Submissions
+    └── Domain_Description_and_Data_Source.pdf
+```
