@@ -1,4 +1,4 @@
-# NBA Statistics 2017-2018: Database
+# Database: NBA Statistics 2017-2018
 
 # Project Details
 The goal of this project is to gain experience with database design and implementation. You need to choose a small domain (for example, food carts or campus sports teams) for which to implement a database, along with populating it with real data and producing example queries to execute over it.
