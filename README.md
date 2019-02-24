@@ -22,8 +22,14 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 ## Source Tree
 ```bash
 ├── CSV_Files
-│   └── Team_Stats.csv
+│   └── team_stats.csv
 ├── README.md
+├── SQL
+│   ├── CreateTable_TeamStats.txt
+│   └── ImportData_TeamStats.txt
+├── Screenshots
+│   ├── CreateTable_TeamStats.png
+│   └── ShowTable_TeamStats.png
 └── Submissions
     └── Domain_Description_and_Data_Source.pdf
 ```
