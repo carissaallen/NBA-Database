@@ -1,0 +1,71 @@
+Points,Name,Year,TeamName,OppTeamName,TeamScore,OppTeamScore,MinsPlayed
+100,Wilt Chamberlain,1962,Philadelphia Warriors,New York Knicks,169,147,48
+81,Kobe Bryant,2006,Los Angeles Lakers,Toronto Raptors,122,104,42
+78,Wilt Chamberlain,1961,Philadelphia Warriors,Los Angeles Lakers,147,151,63
+73,Wilt Chamberlain,1962,Philadelphia Warriors,Chicago Packers,135,117,48
+73,Wilt Chamberlain,1962,San Francisco Warriors,New York Knicks,127,111,48
+73,David Thompson,1978,Denver Nuggets,Detroit Pistons,137,139,43
+72,Wilt Chamberlain,1962,San Francisco Warriors,Los Angeles,115,127,NULL
+71,Elgin Baylor,1960,Los Angeles Lakers,New York Knicks,123,108,45
+71,David Robinson,1994,San Antonio Spurs,Los Angeles Clippers,112,97,44
+70,Wilt Chamberlain,1963,San Francisco Warriors,Syracuse Nationals,148,163,48
+70,Devin Booker,2017,Phoenix Suns,Boston Celtics,120,130,45
+69,Michael Jordan,1990,Chicago Bulls,Cleveland Cavaliers,117,113,50
+68,Wilt Chamberlain,1967,Philadelphia 76ers,Chicago Bulls,143,123,NULL
+68,Pete Maravich,1977,New Orleans Jazz,New York Knicks,124,107,43
+67,Wilt Chamberlain,1961,Philadelphia Warriors,New York Knicks,135,126,NULL
+67,Wilt Chamberlain,1962,Philadelphia Warriors,St Louis Hawks,121,128,48
+67,Wilt Chamberlain,1962,Philadelphia Warriors,New York Knicks,135,149,48
+67,Wilt Chamberlain,1963,San Francisco Warriors,Los Angeles Lakers,129,134,NULL
+66,Wilt Chamberlain,1969,Los Angeles Lakers,Phoenix Suns,134,116,48
+65,Wilt Chamberlain,1962,Philadelphia Warriors,Cincinnati Royals,132,152,48
+65,Wilt Chamberlain,1962,Philadelphia Warriors,St Louis Hawks,147,137,48
+65,Wilt Chamberlain,1966,Philadelphia 76ers,Los Angeles Lakers,132,125,NULL
+65,Kobe Bryant,2007,Los Angeles Lakers,Portland Trail Blazers,116,111,50
+64,Elgin Baylor,1959,Minneapolis Lakers,Boston Celtics,136,115,NULL
+64,Rick Barry,1974,Golden State Warriors,Portland Trail Blazers,143,120,43
+64,Michael Jordan,1993,Chicago Bulls,Orlando Magic,124,128,47
+64,Joe Fulks,1949,Philadelphia Warriors,Indianapolis Jets,108,87,NULL
+63,Elgin Baylor,1961,Los Angeles Lakers,Philadelphia Warriors,151,147,NULL
+63,Jerry West,1962,Los Angeles Lakers,New York Knicks,129,121,39
+63,Wilt Chamberlain,1962,San Francisco Warriors,Los Angeles Lakers,118,120,NULL
+63,Wilt Chamberlain,1964,San Francisco Warriors,Philadelphia 76ers,117,128,NULL
+63,George Gervin,1978,San Antonio Spurs,New Orleans Jazz,132,153,33
+63,Michael Jordan,1986,Chicago Bulls,Boston Celtics,131,135,53
+62,Wilt Chamberlain,1962,Philadelphia Warriors,Boston Celtics,136,145,48
+62,Wilt Chamberlain,1962,Philadelphia Warriors,St Louis Hawks,136,130,53
+62,Wilt Chamberlain,1962,Philadelphia Warriors,Syracuse Nationals,139,132,53
+62,Wilt Chamberlain,1963,San Francisco Warriors,New York Knicks,123,103,NULL
+62,Wilt Chamberlain,1964,San Francisco Warriors,Cincinnati Royals,122,106,NULL
+62,Wilt Chamberlain,1966,Philadelphia 76ers,San Francisco Warriors,135,125,NULL
+62,Tracy McGrady,2004,Orlando Magic,Washington Wizards,108,99,46
+62,Kobe Bryant,2005,Los Angeles Lakers,Dallas Mavericks,112,90,33
+62,Carmelo Anthony,2014,New York Knicks,Charlotte Bobcats,125,96,39
+61,George Mikan,1952,Minneapolis Lakers,Rochester Royals,91,81,NULL
+61,Wilt Chamberlain,1961,Philadelphia Warriors,Chicago Packers,135,113,48
+61,Wilt Chamberlain,1962,Philadelphia Warriors,St Louis Hawks,139,121,48
+61,Wilt Chamberlain,1962,Philadelphia Warriors,Chicago Packers,128,119,48
+61,Elgin Baylor,1962,Los Angeles Lakers,Boston Celtics,126,121,NULL
+61,Wilt Chamberlain,1962,San Francisco Warriors,Cincinnati Royals,139,143,NULL
+61,Wilt Chamberlain,1962,San Francisco Warriors,Syracuse Nationals,136,124,NULL
+61,Wilt Chamberlain,1962,San Francisco Warriors,St Louis Hawks,130,110,NULL
+61,Michael Jordan,1987,Chicago Bulls,Detroit Pistons,125,120,43
+61,Michael Jordan,1987,Chicago Bulls,Atlanta Hawks,114,117,41
+61,Karl Malone,1990,Utah Jazz,Milwaukee Bucks,144,96,33
+61,Shaquille O'Neal,2000,Los Angeles Lakers,Los Angeles Clippers,123,103,45
+61,Kobe Bryant,2009,Los Angeles Lakers,New York Knicks,126,117,37
+61,Lebron James,2014,Miami Heat,Charlotte Bobcats,124,107,42
+60,James Harden,2019,Houston Rockets,New York Knicks,114,110,40
+60,Wilt Chamberlain,1961,Philadelphia Warriors,Los Angeles Lakers,138,117,48
+60,Wilt Chamberlain,1961,Philadelphia Warriors,Los Angeles Lakers,123,118,48
+60,Wilt Chamberlain,1969,Los Angeles Lakers,Cincinnati Royals,126,113,NULL
+60,Bernard King,1984,New York Knicks,New Jersey Nets,114,120,41
+60,Larry Bird,1985,Boston Celtics,Atlanta Hawks,126,115,43
+60,Tom Chambers,1990,Phoenix Suns,Seattle SuperSonics,121,95,42
+60,Allen Iverson,2005,Philadelphia 76ers,Orlando Magic,112,99,43
+60,Gilbert Arenas,2006,Washington Wizards,Los Angeles Lakers,147,141,49
+60,Kobe Bryant,2007,Los Angeles Lakers,Memphis Grizzlies,121,119,46
+60,Kobe Bryant,2016,Los Angeles Lakers,Utah Jazz,101,96,42
+60,Klay Thompson,2016,Golden State Warriors,Indiana Pacers,142,106,29
+60,James Harden,2018,Houston Rockets,Orlando Magic,114,107,47
+60,Kemba Walker,2018,Charlotte Hornets,Philadelphia 76ers,119,122,46
