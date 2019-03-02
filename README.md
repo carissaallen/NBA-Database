@@ -29,8 +29,8 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │   ├── Team_Stats.csv
 │   ├── Teams.csv
 │   └── Top_Scorers.csv
-├── Data\ Sources.txt
-├── Excel\ Tables
+├── Data_Sources.txt
+├── Excel_Tables
 │   ├── Coach_Stats.xlsx
 │   ├── Coaches.xlsx
 │   ├── Player_Stats.xlsx
