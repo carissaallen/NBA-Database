@@ -42,9 +42,10 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │   ├── CreateTable_TeamStats.sql
 │   └── ImportData_TeamStats.sql
 ├── Screenshots
-│   ├── CreateTable_TeamStats.png
+│   ├── CreateTable_TeamStats.jpg
 │   ├── NBA_Statistics_ER_Diagram.jpg
 │   └── ShowTable_TeamStats.png
 └── Submissions
-    └── Domain_Description_and_Data_Source.pdf
+├── 1-Domain_Description_and_Data_Source.pdf
+└── 2-ER_Diagram_and_Relational_Schema.pdf
 ```
