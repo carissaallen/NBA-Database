@@ -22,13 +22,28 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 ## Source Tree
 ```bash
 ├── CSV_Files
-│   └── team_stats.csv
+│   ├── Coach_Stats.csv
+│   ├── Coaches.csv
+│   ├── Player_Stats.csv
+│   ├── Players.csv
+│   ├── Team_Stats.csv
+│   ├── Teams.csv
+│   └── Top_Scorers.csv
+├── Data\ Sources.txt
+├── Excel\ Tables
+│   ├── Coach_Stats.xlsx
+│   ├── Coaches.xlsx
+│   ├── Player_Stats.xlsx
+│   ├── Players.xlsx
+│   ├── Team_Stats.xlsx
+│   └── Teams.xlsx
 ├── README.md
 ├── SQL
-│   ├── CreateTable_TeamStats.txt
-│   └── ImportData_TeamStats.txt
+│   ├── CreateTable_TeamStats.sql
+│   └── ImportData_TeamStats.sql
 ├── Screenshots
 │   ├── CreateTable_TeamStats.png
+│   ├── NBA_Statistics_ER_Diagram.jpg
 │   └── ShowTable_TeamStats.png
 └── Submissions
     └── Domain_Description_and_Data_Source.pdf
