@@ -1,6 +1,8 @@
-CREATE TABLE Team_Stats (
-TeamId    INT
-,G        INT
+CREATE TABLE Player_Stats ( 
+Player    VARCHAR(100) NOT NULL
+,Tm       VARCHAR(10) NOT NULL
+,Gms      INT
+,Gstart   INT
 ,MP       INT
 ,FG       INT
 ,FGA      INT
@@ -9,10 +11,11 @@ TeamId    INT
 ,ThreePA  INT
 ,ThreePP  FLOAT
 ,TwoP     INT
-,TwoPA    INT
+,TwoPA    FLOAT
 ,TwoPP    FLOAT
+,eFGP     FLOAT
 ,FT       INT
-,FTA      INT
+,FTA      FLOAT
 ,FTP      FLOAT
 ,ORB      INT
 ,DRB      INT
@@ -23,4 +26,4 @@ TeamId    INT
 ,TOV      INT
 ,PF       INT
 ,PTS      INT
-,PRIMARY KEY(TeamId));
+,PRIMARY KEY(Player, Tm));
