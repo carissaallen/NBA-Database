@@ -1,5 +1,5 @@
 CREATE TABLE Team_Stats (
-TeamName  VARCHAR(50)
+TeamId    INT
 ,G        INT
 ,MP       INT
 ,FG       INT
@@ -23,4 +23,4 @@ TeamName  VARCHAR(50)
 ,TOV      INT
 ,PF       INT
 ,PTS      INT
-,PRIMARY KEY(TeamName));
+,PRIMARY KEY(TeamId));
