@@ -1,0 +1,5 @@
+Data Sources:
+
+Team_Stats : https://www.basketball-reference.com/leagues/NBA_2018.html
+Coaches : https://www.basketball-reference.com/leagues/NBA_2018_coaches.html
+Top_Scorers : https://en.wikipedia.org/wiki/List_of_National_Basketball_Association_single-game_scoring_leaders
