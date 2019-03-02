@@ -39,13 +39,30 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │   └── Teams.xlsx
 ├── README.md
 ├── SQL
+│   ├── CreateTable_CoachStats.sql
+│   ├── CreateTable_Coaches.sql
+│   ├── CreateTable_PlayerStats.sql
+│   ├── CreateTable_Players.sql
 │   ├── CreateTable_TeamStats.sql
+│   ├── CreateTable_Teams.sql
+│   ├── CreateTable_TopScorers.sql
 │   └── ImportData_TeamStats.sql
 ├── Screenshots
 │   ├── CreateTable_TeamStats.jpg
+│   ├── ImportCSV_PlayerStats.jpg
+│   ├── ImportCSV_Players.jpg
+│   ├── ImportCSV_Teams.jpg
+│   ├── ImportCSV_TopScorers.jpg
 │   ├── NBA_Statistics_ER_Diagram.jpg
-│   └── ShowTable_TeamStats.png
+│   ├── RowCount_Players.jpg
+│   ├── ShowTable_CoachStats.jpg
+│   ├── ShowTable_Coaches.jpg
+│   ├── ShowTable_PlayerStats.jpg
+│   ├── ShowTable_Players.jpg
+│   ├── ShowTable_TeamStats.png
+│   ├── ShowTable_Teams.jpg
+│   └── ShowTable_TopScorers.jpg
 └── Submissions
-├── 1-Domain_Description_and_Data_Source.pdf
-└── 2-ER_Diagram_and_Relational_Schema.pdf
+    ├── 1-Domain_Description_and_Data_Source.pdf
+    └── 2-ER_Diagram_and_Relational_Schema.pdf
 ```
