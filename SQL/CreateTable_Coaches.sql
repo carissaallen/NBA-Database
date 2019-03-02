@@ -1,0 +1,4 @@
+CREATE TABLE Coaches (
+Name      VARCHAR(100)
+,TeamID   INT REFERENCES Teams(TeamID)
+,PRIMARY KEY(Name, TeamID));
