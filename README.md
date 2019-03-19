@@ -77,3 +77,4 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
     ├── 2-ER_Diagram_and_Relational_Schema.pdf
     └── NBA_Statistics_ER_Diagram.jpg
 ```
+<img src="https://github.com/carissaallen/NBA-Database/blob/master/Screenshots/nba_nike.jpg">
