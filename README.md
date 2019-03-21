@@ -19,6 +19,9 @@ You are to implement your schema in a relational database and populate it with d
 to SQL and the (full) answer to the query. (If you needed to change any of your original questions, also list the originals and why you needed to change or replace them.)
 * A listing of the contents of all of your tables
 
+## Data Sources
+* [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2018.html)
+
 ## Source Tree
 ```bash
 ├── CSV_Files
