@@ -1,3 +1,5 @@
+--Who was the most time efficient scorer in the league?
+
 SELECT player, pts, mp, ptsPer48
 FROM (
 	SELECT player, pts, mp, CAST(pts as FLOAT)*48/CAST(mp as FLOAT) as ptsPer48
