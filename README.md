@@ -53,8 +53,22 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │   ├── Import_CSV
 │   │   └── ImportData_TeamStats.sql
 │   └── Queries
+│       ├── 10_Teams_Highest_Fouls.sql
+│       ├── 11_PlayerOn_MostTeams.sql
+│       ├── 12_HighestAssistTurnoverRatio.sql
+│       ├── 14_TopScorers_Under25.sql
+│       ├── 15_Most_Time_Efficient_Scorer.sql
+│       ├── 19_Team_HighestTurnovers.sql
+│       ├── 1_GreaterThan25.sql
+│       ├── 20_AvgPlayerScore_10to20.sql
+│       ├── 2_MaxFTA_PerTeam.sql
+│       ├── 3_MaxFTA_PerTeam_Percentage.sql
 │       ├── 4_TopTenTeams_FGA.sql
-│       └── 5_TopTenTeams_FGP.sql
+│       ├── 5_TopTenTeams_FGP.sql
+│       ├── 6_Avg_TOV_PerGame.sql
+│       ├── 7_FoulsPerGame.sql
+│       ├── 8_AssistsPerFG_GreaterThan50.sql
+│       └── 9_TeamAvg_HighestFreeThrows.sql
 ├── Screenshots
 │   ├── Create_Tables
 │   │   └── CreateTable_TeamStats.jpg
@@ -64,17 +78,32 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │   │   ├── ImportCSV_Teams.jpg
 │   │   └── ImportCSV_TopScorers.jpg
 │   ├── Query_Results
+│   │   ├── 10_Teams_Highest_Fouls.jpg
+│   │   ├── 11_PlayerOn_MostTeams.jpg
+│   │   ├── 12_HighestAssistTurnoverRatio.jpg
+│   │   ├── 14_TopScorers_Under25.jpg
+│   │   ├── 15_Most_Time_Efficient_Scorer.jpg
+│   │   ├── 19_Team_HighestTurnovers.jpg
+│   │   ├── 1_GreaterThan25Points.jpg
+│   │   ├── 20_AvgPlayerScore_10to20.jpg
+│   │   ├── 2_PlayerMaxFTA_PerTeam.jpg
+│   │   ├── 3_MaxFTA_PerTeam_Percentage.jpg
 │   │   ├── 4_TopTenTeams_FGA.jpg
-│   │   └── 5_TopTenTeams_FGP.jpg
-│   └── Show_Table_Contents
-│       ├── RowCount_Players.jpg
-│       ├── ShowTable_CoachStats.jpg
-│       ├── ShowTable_Coaches.jpg
-│       ├── ShowTable_PlayerStats.jpg
-│       ├── ShowTable_Players.jpg
-│       ├── ShowTable_TeamStats.png
-│       ├── ShowTable_Teams.jpg
-│       └── ShowTable_TopScorers.jpg
+│   │   ├── 5_TopTenTeams_FGP.jpg
+│   │   ├── 6_Avg_TOV_PerTeam.jpg
+│   │   ├── 7_Avg_FoulsPerGame.jpg
+│   │   ├── 8_Teams_AssistsPerFG_GreaterThan50.jpg
+│   │   └── 9_TeamAvg_HighestFreeThrowScores.jpg
+│   ├── Show_Table_Contents
+│   │   ├── RowCount_Players.jpg
+│   │   ├── ShowTable_CoachStats.jpg
+│   │   ├── ShowTable_Coaches.jpg
+│   │   ├── ShowTable_PlayerStats.jpg
+│   │   ├── ShowTable_Players.jpg
+│   │   ├── ShowTable_TeamStats.png
+│   │   ├── ShowTable_Teams.jpg
+│   │   └── ShowTable_TopScorers.jpg
+│   └── nba_nike.jpg
 └── Submissions
     ├── 1-Domain_Description_and_Data_Source.pdf
     ├── 2-ER_Diagram_and_Relational_Schema.pdf
