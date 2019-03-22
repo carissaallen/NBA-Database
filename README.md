@@ -59,8 +59,12 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │       ├── 10_Teams_Highest_Fouls.sql
 │       ├── 11_PlayerOn_MostTeams.sql
 │       ├── 12_HighestAssistTurnoverRatio.sql
+│       ├── 13_oldest_team.sql
 │       ├── 14_TopScorers_Under25.sql
 │       ├── 15_Most_Time_Efficient_Scorer.sql
+│       ├── 16_scorers_halfseason.sql
+│       ├── 17_current_players_scored_60plus.sql
+│       ├── 18_team_most_ots.sql
 │       ├── 19_Team_HighestTurnovers.sql
 │       ├── 1_GreaterThan25.sql
 │       ├── 20_AvgPlayerScore_10to20.sql
@@ -84,8 +88,12 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 │   │   ├── 10_Teams_Highest_Fouls.jpg
 │   │   ├── 11_PlayerOn_MostTeams.jpg
 │   │   ├── 12_HighestAssistTurnoverRatio.jpg
+│   │   ├── 13_oldest_team.jpg
 │   │   ├── 14_TopScorers_Under25.jpg
 │   │   ├── 15_Most_Time_Efficient_Scorer.jpg
+│   │   ├── 16_scorers_halfseason.jpg
+│   │   ├── 17_current_players_scored_60plus.jpg
+│   │   ├── 18_team_most_ots.jpg
 │   │   ├── 19_Team_HighestTurnovers.jpg
 │   │   ├── 1_GreaterThan25Points.jpg
 │   │   ├── 20_AvgPlayerScore_10to20.jpg
@@ -110,6 +118,7 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 └── Submissions
     ├── 1-Domain_Description_and_Data_Source.pdf
     ├── 2-ER_Diagram_and_Relational_Schema.pdf
+    ├── 3-FinalWriteUp.pdf
     └── NBA_Statistics_ER_Diagram.jpg
 ```
 <img src="https://github.com/carissaallen/NBA-Database/blob/master/Screenshots/nba_nike.jpg">
