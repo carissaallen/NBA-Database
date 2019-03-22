@@ -21,9 +21,9 @@ to SQL and the (full) answer to the query. (If you needed to change any of your 
 
 ## Data Sources
 * [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2018.html)
+* [National Basketball Association](https://en.wikipedia.org/wiki/List_of_National_Basketball_Association_single-game_scoring_leaders)
 * [Team Statistics](https://www.basketball-reference.com/leagues/NBA_2018.html)
 * [Coach Information](https://www.basketball-reference.com/leagues/NBA_2018_coaches.html)
-* [National Basketball Association](https://en.wikipedia.org/wiki/List_of_National_Basketball_Association_single-game_scoring_leaders)
 
 ## Source Tree
 ```bash
